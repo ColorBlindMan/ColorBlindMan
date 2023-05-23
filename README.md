@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ColorBlindMan
-- 👀 I’m interested in cock
-- 🌱 I’m currently learning Coding (3rd year)
--
+- 👀 I’m interested in making coding friends
+- 🌱 I’m currently learning Coding (5th year)
 - 💞️ I’m looking to collaborate on Making a game
 - 📫 How to reach me Discord: Wilfer#2021
 
